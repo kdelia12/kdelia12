@@ -1,6 +1,6 @@
 <div align="center">
 
-  <p>yes i code, i code everythings that makes money, prolly u code better than me but i can learn a lot of faster than you</p>
+  <p>my other anme is evetixx, yes i code, i code everythings that makes money, prolly u code better than me but i can learn a lot of faster than you</p>
 
   <br />
 
