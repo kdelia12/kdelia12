@@ -3,7 +3,7 @@
   <p>
     <b>evetixx</b>
     <br/>
-    yes i code, i code everythings that makes money, you might code better, but i learn faster.
+    yes i code,
   </p>
 
   <br />
